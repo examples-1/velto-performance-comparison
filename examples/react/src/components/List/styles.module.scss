@@ -1,0 +1,13 @@
+.wrap {
+  padding: 6px;
+
+  .list {
+    display: flex;
+    flex-direction: column;
+
+    .item {
+      display: flex;
+      flex-direction: row;
+    }
+  }
+}
