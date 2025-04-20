@@ -17,6 +17,7 @@ export default function List() {
         grade: "一年级",
         age: 8,
       });
+      list.setValue(list.value)
     }
   });
 
